@@ -1,7 +1,6 @@
 full_rebuild: true
-name: Docster Documentation
-author: DigitalMind
-version: V 1.0
+name: Belajar Python Langsung Praktik
+author: essanpupil
 encoding: utf-8
 defaults:
   -
