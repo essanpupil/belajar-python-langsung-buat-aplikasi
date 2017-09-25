@@ -1,12 +1,12 @@
 ---
 sectionid: intro
 sectionclass: h1
-title: Introduction
+title: Perkenalan
 number: 1000
 ---
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
+Python adalah bahasa pemrograman yang populer. Salah satu keunggulan python dibanding bahasa pemrograman lain adalah dapat digunakan di banyak variasi bidang software, misalnya:
+1. Web development
+2. System administration
+3. Machine learning
+4. Data analyst
+5. Dan lain-lain
