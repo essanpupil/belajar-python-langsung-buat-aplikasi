@@ -1,21 +1,21 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: essanpupil/belajar-python-langsung-praktik
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: Belajar Python Langsung Praktik
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: Belajar Python
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: pupil
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+#github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-disqus_shortname: idrbwjekyll
+disqus_shortname: pupil-id
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
 google_analytics: UA-66296557-1
@@ -32,9 +32,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Materi belajar Python
 
-feedback_email: tomjoht@gmail.com
+feedback_email: jakethitam1985@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -104,8 +104,8 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "Materi belajar bahasa pemrograman Python dengan metode langsung praktik."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://idratherbewriting.com
+url: http://pupil.id/belajar-python-langsung-praktik/
